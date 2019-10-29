@@ -1,0 +1,23 @@
+body{
+    background-color: seagreen;
+}
+h1{
+    font-variant: small-caps;
+}
+.p1y4{
+color: seashell;
+font-style: italic;
+}
+.p2y7{
+color: tan;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+letter-spacing: 3px;
+}
+.p3y5{
+color: orange;
+letter-spacing: 2px;
+}
+.p6y8{
+color: rgb(201, 23, 23);
+word-spacing: 5px;
+}
